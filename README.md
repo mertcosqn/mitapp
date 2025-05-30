@@ -16,6 +16,10 @@ ekran 2 dizayn
 ![image](https://github.com/user-attachments/assets/fcf28e31-f3a6-49bf-807f-601ede0eff6d)
 1. ekranda kulanılan nesneler
 
+•	App Inventor ile bu oyun başarıyla geliştirilebilir.
+•	Teknik gereksinimler karşılanabilir ve uygulama küçük çaplı kullanıcılar için uygundur.
+
+
 
 
 
